@@ -1,4 +1,3 @@
 transformers
 dataset
 evaluate
-text2vec
