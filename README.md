@@ -29,3 +29,5 @@ The Applied AI Solutions Development Program has exclusively trained models in E
 | 3.2 | Trying liam168/c2-roberta-base-finetuned-dianping-chinese |
 | 3.3 | Trying Jiabo/Roberta_Chinese_sentiment |
 | 4 | Results |
+
+Deploy website: https://sikyinsun.github.io/AASD-4015---Chinese-Sentiment-Analysis/
